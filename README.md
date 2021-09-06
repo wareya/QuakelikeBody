@@ -58,3 +58,7 @@ Q: I'm snagging on trimesh geometry when using an AABB/Cylinder.
 A: Try enabling this flag in your project settings:
 
 ![image](https://user-images.githubusercontent.com/585488/132182328-96aa6631-84f0-4665-9310-5a192ac42860.png)
+
+Q: Is this really a clone of quake's movement code?
+
+A: No. It just coincidentally happens to take the same approaches to certain key things. I learned these approaches working on Gang Garrison 2, not Quake mods. There are many small differences, and it is not structured similarly on a code level.
