@@ -16,3 +16,11 @@ Drop `QuakelikeBody.gd` into your project, then use `QuakelikeBody` in the scene
 ## Example
 
 Used in the game jam game [Still Waiting](https://github.com/wareya/StillWaiting).
+
+## Where's all the customization?
+
+It's in the exported variables here:
+
+![image](https://user-images.githubusercontent.com/585488/132180793-20e8cf3f-d627-4e5c-ad5e-e5c144975654.png)
+
+All distances are Godot units.
