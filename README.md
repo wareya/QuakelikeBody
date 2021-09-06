@@ -9,7 +9,7 @@ Creative Commons Zero, 1.0. See repository. In other words: public domain.
 
 Drop `QuakelikeBody.gd` into your project, then use `QuakelikeBody` in the scene/node editor instead of `KinematicBody`. Then use `velocity = custom_move_and_slide(delta, ...)` instead of `velocity = move_and_slide(...)`.
 
-In any jumping logic you might hvae, set `floor_collision` to `null`.
+If you have jumping logic, set `floor_collision` to `null` when the character jumps.
 
 Make sure your scripts say `extends QuakelikeBody` instead of `extends KinematicBody`.
 
