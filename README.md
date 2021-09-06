@@ -35,7 +35,7 @@ All distances are Godot units.
 
 Q: Why?
 
-A: Because move_and_slide and move_and_slide_with_snap bring out the bugginess inherent 
+A: Because `move_and_slide` and `move_and_slide_with_snap` work in ways that bring out a lot of bugs in godot's physics backends (both bullet and godotphysics).
 
 Q: My jumping code isn't working!
 
