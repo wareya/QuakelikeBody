@@ -61,4 +61,4 @@ A: Try enabling this flag in your project settings:
 
 Q: Is this really a clone of quake's movement code?
 
-A: No. It just coincidentally happens to take the same approaches to certain key things. I learned these approaches working on Gang Garrison 2, not Quake mods. There are many small differences, and it is not structured similarly on a code level.
+A: No. It just coincidentally happens to take the same approaches to certain key things. I learned these approaches working on Gang Garrison 2, not Quake mods. There are many small differences, and it is not structured similarly on a code level. Naming it after Quake is just good advertising.
