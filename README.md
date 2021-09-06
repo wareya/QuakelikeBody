@@ -13,6 +13,8 @@ Make sure your scripts say `extends QuakelikeBody` instead of `extends Kinematic
 
 ![image](https://user-images.githubusercontent.com/585488/132180422-8fac916b-7ae0-4a8b-9a79-b1fb785d87d5.png)
 
+![image](https://user-images.githubusercontent.com/585488/132181276-3693d8da-b300-48bb-817b-5422eb3c5f09.png)
+
 ![image](https://user-images.githubusercontent.com/585488/132180474-ea0303da-7f54-4410-b9a6-c9fd8b357758.png)
 
 ## Example
