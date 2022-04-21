@@ -21,7 +21,7 @@ Make sure your scripts say `extends QuakelikeBody` instead of `extends Kinematic
 
 ## Example
 
-Used in the game jam game [Still Waiting](https://github.com/wareya/StillWaiting).
+Used in the game jam games [Still Waiting](https://github.com/wareya/StillWaiting) and [Nostalgiac Blues](https://github.com/wareya/Nostalgiac-Blues).
 
 ## Where's all the customization?
 
